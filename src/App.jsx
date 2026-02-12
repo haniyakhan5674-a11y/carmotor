@@ -27,7 +27,7 @@ function App() {
       </Routes>
       <Service/>
        
-       {/* <About/><Contact/> */}
+       <About/><Contact/>
        <TestDrive/>
       <Footer/>
     </BrowserRouter>
